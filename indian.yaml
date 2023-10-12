@@ -1,0 +1,21 @@
+train: vehicle/train
+val: vehicle/test
+nc: 15
+names: ['bike','car','cycle','auto','human','bag','house','jeep','tree','lane',
+        'motorbike',
+        'bus',
+        'truck',
+        'person',
+        'e-riksha',
+       ]
+
+       ['bike',
+        'car',
+        'bicycle',
+        'auto',
+        'bus',
+        'truck',
+        'person',
+        'mini_van',
+        'thela',
+       ]

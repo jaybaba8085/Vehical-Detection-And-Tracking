@@ -1,0 +1,5 @@
+train: vehicles/train
+val: vehicles/test
+nc: 1
+names: ['auto',
+       ]
